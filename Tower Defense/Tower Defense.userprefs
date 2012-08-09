@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BasicTowerScript.js">
+    <Files>
+      <File FileName="Assets\EnemyCore.js" Line="41" Column="26" />
+      <File FileName="Assets\BasicTowerScript.js" Line="168" Column="5" />
+      <File FileName="Assets\HUDTowers.js" Line="21" Column="30" />
+      <File FileName="Assets\Node.js" Line="264" Column="25" />
+      <File FileName="Assets\playerInfo.js" Line="29" Column="59" />
+      <File FileName="Assets\cpuInfo.js" Line="8" Column="3" />
+      <File FileName="Assets\BuildRadius.js" Line="18" Column="1" />
+      <File FileName="Assets\TerrainScript.js" Line="13" Column="48" />
+      <File FileName="Assets\CurrentGameStuff.js" Line="7" Column="2" />
+      <File FileName="Assets\Waypoint.js" Line="35" Column="55" />
+      <File FileName="Assets\TowerRadius.js" Line="15" Column="25" />
+      <File FileName="Assets\CameraControls.js" Line="2" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
